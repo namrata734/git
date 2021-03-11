@@ -1,0 +1,6 @@
+.grid{
+    display: flex;
+    grid-gap: 50px;
+    grid-column: 50px;
+    border-radius: 10mm;
+    }
